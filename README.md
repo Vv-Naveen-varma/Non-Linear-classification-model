@@ -13,4 +13,4 @@ We discuss about how to perform a binary classification using non linear model w
 ### Remainder:
 - All neural networks are referred as Artificial Neural Networks(ANN). The neural networks with more than one hidden layer are called Deep Neural Networks(DNN). Convolutional Neural Networks(CNN) are mainly used in image processing.
 
-> Next topic to learn is [Multi-class classification deep neural network](https://github.com/Vv-Naveen-varma/Multi-class-classification-deep-neural-networks.git)
+> Next topic to learn [Multi-class classification deep neural network](https://github.com/Vv-Naveen-varma/Multi-class-classification-deep-neural-networks.git)
